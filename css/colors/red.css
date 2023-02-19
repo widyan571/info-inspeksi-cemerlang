@@ -11,7 +11,7 @@ a {
 }
 
 .top-bar a:hover {
-	color: #A83B8C;
+	color: #2B3481;
 }
 
 .section-overlay {
@@ -32,7 +32,7 @@ a.main-button, input[type="submit"] {
 
 .navbar-default .navbar-nav > li:hover > a,
 .navbar-default .navbar-nav > li > a.active {
-	color: #A83B8C;
+	color: #2B3481;
 }
 
 .dropdown > li:hover > a, .sup-dropdown li:hover > a {
@@ -41,11 +41,11 @@ a.main-button, input[type="submit"] {
 }
 
 .navbar-default .navbar-nav > li > a:after {
-	background-color: #A83B8C;
+	background-color: #2B3481;
 }
 
 .navbar-default .navbar-nav > li > a.active, .navbar-default .navbar-nav > li:hover > a {
-	border-color: #A83B8C;
+	border-color: #2B3481;
 }
 
 .dropdown  li a.active, .sup-dropdown li a.active {
@@ -236,7 +236,7 @@ ul.icons-list li i {
 }
 
 .team-member .member-photo .member-name span {
-	background-color: #A83B8C;
+	background-color: #2B3481;
 }
 
 .classic-title span {
@@ -302,7 +302,7 @@ ul.post-meta li a:hover {
 }
 
 .touch-slider .owl-controls.clickable .owl-buttons div:hover {
-	background-color: #ee3733;
+	background-color: #2B3481;
 }
 
 .touch-carousel .owl-controls.clickable .owl-buttons div:hover {
@@ -347,14 +347,14 @@ ul.post-meta li a:hover {
 }
 
 #main-slide .carousel-control i:hover{
-	background: #ee3733;
+	background: #2B3481;
 }
 .slider.btn {
     background-color: #ee3733;
 }
 
 #main-slide .carousel-indicators .active {
-    background-color: #ee3733;
+    background-color: #2B3481;
 }
 
 
